@@ -1,4 +1,3 @@
-
 exports.dispense = function (money){
   let gumball = null;
   if (money.value >= 2){
