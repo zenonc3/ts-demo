@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+      "module": "commonjs",
+      "sourceMap": true,
+      "types": ["node"],
+      "noImplicitAny": false
+  },
+  "include": [
+      "demo.ts"
+  ],
+  "exclude": [
+      "node_modules",
+      "**/*.spec.ts"
+  ]
+}
